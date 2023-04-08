@@ -1,0 +1,11 @@
+.t-shirt-container{
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+
+}
+
+
+.t-shirt-container img{
+    height: 250px;
+    border-radius: 5px;
+}
